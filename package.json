@@ -1,0 +1,21 @@
+{
+  "name": "moeum-sso-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "contributors": [
+    {
+      "name": "seungdeok",
+      "email": "akk9132@naver.com"
+    },
+    {
+      "name": "widse",
+      "email": "wngud6012@naver.com"
+    }
+  ],
+  "license": "ISC"
+}
